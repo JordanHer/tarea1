@@ -1,0 +1,90 @@
+/* 
+    Created on : 29 sept 2022, 10:42:17
+    Author     : jorda
+*/
+*{
+    /*este hace que no hayan bordes en los costados de la pagina*/
+    margin: 0; 
+}
+
+body{
+    
+}
+
+header{
+    background-color: #5f6769;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    
+}
+
+nav{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    background-color: #5f6769;
+    
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0px 20px;
+    list-style: none;
+    background-color: #5f6769;
+    padding: 12px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    
+}
+
+.madre{
+    margin-top: 5vh;
+   
+}
+
+article{
+    width: 800px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+/*header {
+    background-color:orange;
+    width: 100%;
+    height: 8vh;   
+    display: flex;
+    align-items: center;
+    position: fixed;
+    
+}
+
+nav{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    background-color:orange;
+}
+nav ul li {
+    
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+    
+    
+}
+nav ul li a {
+    
+    text-decoration: none;
+    color: #333;
+}*/
+
+
+
