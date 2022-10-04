@@ -1,0 +1,90 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 27 sept 2022, 19:13:36
+    Author     : ASUS
+*/
+.block{
+    background-color:beige ;
+ width: 1530px;
+ height: 5px;
+ padding: 75px;
+ box-sizing: border-box;
+}
+.static{
+    position:static;
+    border: 3px solid green;
+    top:400px;
+    left:50px;
+        
+}
+.relative{
+    position:relative;
+    border: 3px solid lightpink;
+    top:400px;
+    left:500px;
+    width: 200px;
+    height:200px;
+}
+
+.absolute{
+    position:absolute;
+    border: 3px solid red;
+    top:400px;
+    left:500px; 
+    width: 200px;
+    height:200px;
+}
+.FIXED{
+    position:fixed;
+    border: 3px solid red;
+    top:400px;
+    left:500px; 
+    width: 200px;
+    height:200px;
+}
+
+.imagen{
+    width: 250px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 25px;
+     text-align: center;
+    
+}
+
+h4{
+    font-size: 20px;
+     text-align: center;
+}
+
+h5{
+    font-size: 15px;
+     text-align: center;
+}
+
+
+hr{
+  height: 1px;
+  background-color:black
+  
+}
+body{
+    background-color:lightpink
+}
+

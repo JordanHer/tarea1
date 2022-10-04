@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 2, 2022, 5:25:17 PM
+    Author     : serog
+*/
+
+.Titulo{
+    position:fixed;
+    background-color: lightcyan;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.Productos{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    left: 50px;
+}
+
+.Noticias{
+    background-color: lightgrey;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    left: 50px;
+}
+
